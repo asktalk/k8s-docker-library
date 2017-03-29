@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/dnsmasq-metrics-amd64:1.0
-MAINTAINER mritd <mritd@mritd.me>
+FROM gcr.io/google_containers/dnsmasq-metrics-amd64:1.0.1
+MAINTAINER asktalk <asktalk@qq.com>

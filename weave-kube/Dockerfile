@@ -1,2 +1,2 @@
-FROM weaveworks/weave-kube:1.8.1
-MAINTAINER mritd <mritd@mritd.me>
+FROM weaveworks/weave-kube:1.8.2
+MAINTAINER asktalk <asktalk@qq.com>
